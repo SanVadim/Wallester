@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Vadim",
+        "email": "vadim1234@test.com",
+        "password": "1111111",
+        "title": "Mr",
+        "birth_date": "15",
+        "birth_month": "05",
+        "birth_year": "2000",
+        "firstname": "V",
+        "lastname": "S",
+        "company": "Wallester",
+        "address1": "3 Vs 123",
+        "address2": "",
+        "country": "EST",
+        "zipcode": "L1111",
+        "state": "Harjumaa",
+        "city": "Tallinn",
+        "mobile_number": "+37223456789"
+    },
+    {
+        "name": "Vadim",
+        "email": "vadim1234@test.com",
+        "password": "",
+        "title": "Mr",
+        "birth_date": "15",
+        "birth_month": "05",
+        "birth_year": "2000",
+        "firstname": "V",
+        "lastname": "S",
+        "company": "Wallester",
+        "address1": "3 Vs 123",
+        "address2": "",
+        "country": "EST",
+        "zipcode": "L1111",
+        "state": "Harjumaa",
+        "city": "Tallinn",
+        "mobile_number": "+37223456789"
+    }
+]
